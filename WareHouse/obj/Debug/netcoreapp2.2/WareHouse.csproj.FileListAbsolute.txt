@@ -1,0 +1,14 @@
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.deps.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.runtimeconfig.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.runtimeconfig.dev.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.csprojAssemblyReference.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.csproj.CoreCompileInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.RazorAssemblyInfo.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.RazorAssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.AssemblyInfoInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.AssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.RazorTargetAssemblyInfo.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.pdb

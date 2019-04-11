@@ -1,0 +1,9 @@
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.deps.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.csprojAssemblyReference.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.csproj.CoreCompileInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.AssemblyInfoInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.AssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Abstractions\obj\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb

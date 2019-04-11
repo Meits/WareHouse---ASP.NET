@@ -1,0 +1,14 @@
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.AppContext.deps.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.AppContext.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.csproj.CoreCompileInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.AssemblyInfoInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.AssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.AppContext.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.Entities.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.Entities.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.csprojAssemblyReference.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.csproj.CopyComplete
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.AppContext\obj\Debug\netcoreapp2.2\WareHouse.AppContext.pdb

@@ -1,0 +1,9 @@
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\bin\Debug\netcoreapp2.2\WareHouse.ViewModels.deps.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\bin\Debug\netcoreapp2.2\WareHouse.ViewModels.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.csproj.CoreCompileInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.AssemblyInfoInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.AssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\bin\Debug\netcoreapp2.2\WareHouse.ViewModels.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.csprojAssemblyReference.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.ViewModels\obj\Debug\netcoreapp2.2\WareHouse.ViewModels.pdb

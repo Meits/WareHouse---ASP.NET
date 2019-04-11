@@ -1,0 +1,12 @@
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\bin\Debug\netcoreapp2.2\WareHouse.Entities.deps.json
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\bin\Debug\netcoreapp2.2\WareHouse.Entities.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.csproj.CoreCompileInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.AssemblyInfoInputs.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.AssemblyInfo.cs
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\bin\Debug\netcoreapp2.2\WareHouse.Entities.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.csprojAssemblyReference.cache
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.csproj.CopyComplete
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse.Entities\obj\Debug\netcoreapp2.2\WareHouse.Entities.pdb

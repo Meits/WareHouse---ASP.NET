@@ -6,10 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SpaServices.Webpack;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+
+using WareHouse.AppContext;
+using WareHouse.Repositories;
 
 namespace WareHouse
 {
@@ -25,7 +29,15 @@ namespace WareHouse
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("MyConnectionString"), b => b.MigrationsAssembly("WareHouse")));
+
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddSingleton<IConfiguration>(Configuration);
+            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IStockRepository, StockRepository>();
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

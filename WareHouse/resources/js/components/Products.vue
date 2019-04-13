@@ -94,7 +94,7 @@ export default {
         },
         methods: {
             getValues: function () {
-                this.axios.get('/api/values').then((response) => {
+                this.axios.get('/api/Stocks').then((response) => {
                     console.log(response.data);
                 });
             }

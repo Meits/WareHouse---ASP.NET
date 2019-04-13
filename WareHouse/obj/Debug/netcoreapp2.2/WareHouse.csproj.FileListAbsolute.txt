@@ -12,3 +12,12 @@ F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHou
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.RazorTargetAssemblyInfo.cache
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.dll
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.AppContext.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Entities.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Repositories.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.AppContext.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Repositories.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Entities.pdb
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.csproj.CopyComplete

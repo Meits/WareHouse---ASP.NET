@@ -72,5 +72,11 @@ namespace WareHouse.Repositories
                 return -1;
             }
         }
+
+        ////////For Api
+        public IEnumerable<T> FindAll()
+        {
+            return this.AllItems;
+        }
     }
 }

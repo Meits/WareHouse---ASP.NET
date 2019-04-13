@@ -4,18 +4,29 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WareHouse.Entities;
+using WareHouse.Repositories;
 
 namespace WareHouse.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class StocksController : ControllerBase
     {
+        private readonly IStockRepository _repository;
+
+        public StocksController(IStockRepository repository)
+        {
+            _repository = repository;
+        }
+
         // GET: api/Stocks
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IEnumerable<Stock> Get()
         {
-            return new string[] { "value1", "value2" };
+            //return new string[] { "value1", "value2" };
+            return _repository.FindAll();
         }
 
         // GET: api/Stocks/5

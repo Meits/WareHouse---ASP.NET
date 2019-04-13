@@ -80,6 +80,11 @@
                         to: '/products',
                         icon: 'mdi-account',
                         text: 'Products'
+                    },
+                    {
+                        to: '/stocks',
+                        icon: 'mdi-account',
+                        text: 'Stocks'
                     }
                 ],
                 responsive: false

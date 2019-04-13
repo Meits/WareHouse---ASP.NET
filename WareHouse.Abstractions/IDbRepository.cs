@@ -17,5 +17,9 @@ namespace WareHouse.Abstractions
         Task<bool> DeleteItemAsync(Guid id);
         Task<T> GetItemAsync(Guid id);
         Task<int> SaveChangesAsync();
+
+        IEnumerable<T> FindAll();
+
+
     }
 }

@@ -13,10 +13,12 @@ const state = {
 
 const actions = {
     async getStocks(context) {
-        await Axios.get('/api/Stocks').then((response) => {
-                console.log(response.data);
+        if (state.stocks.length == 0) {
+            await Axios.get('/api/Stocks').then((response) => {
                 context.commit('getStocks', response.data);
-        });
+            });
+        }
+        
     }
 }
 

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace WareHouse.Abstractions
@@ -19,6 +20,7 @@ namespace WareHouse.Abstractions
         Task<int> SaveChangesAsync();
 
         IEnumerable<T> FindAll();
+        T FindByCondition(Expression<Func<T, bool>> expression);
 
 
     }

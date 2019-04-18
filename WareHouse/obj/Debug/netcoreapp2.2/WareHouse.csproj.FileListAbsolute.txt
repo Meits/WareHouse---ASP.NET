@@ -21,3 +21,5 @@ F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHou
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Abstractions.pdb
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.Entities.pdb
 F:\step\asp\examen\warehouse\WareHouse\WareHouse\obj\Debug\netcoreapp2.2\WareHouse.csproj.CopyComplete
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.ViewModels.dll
+F:\step\asp\examen\warehouse\WareHouse\WareHouse\bin\Debug\netcoreapp2.2\WareHouse.ViewModels.pdb

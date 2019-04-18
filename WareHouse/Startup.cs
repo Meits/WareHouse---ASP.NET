@@ -14,6 +14,7 @@ using Microsoft.Extensions.Options;
 
 using WareHouse.AppContext;
 using WareHouse.Repositories;
+using WareHouse.Repositories.Interfaces;
 
 namespace WareHouse
 {
@@ -37,6 +38,7 @@ namespace WareHouse
             services.AddSingleton<IConfiguration>(Configuration);
             services.AddTransient<IProductRepository, ProductRepository>();
             services.AddTransient<IStockRepository, StockRepository>();
+            services.AddTransient<IUserRepository, UserRepository>();
            
         }
 

@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using System.Linq.Expressions;
 
 namespace WareHouse.Repositories
 {
@@ -77,6 +78,11 @@ namespace WareHouse.Repositories
         public IEnumerable<T> FindAll()
         {
             return this.AllItems;
+        }
+
+        public T FindByCondition(Expression<Func<T, bool>> expression)
+        {
+            return this.AllItems.Where(expression).First<T>();
         }
     }
 }

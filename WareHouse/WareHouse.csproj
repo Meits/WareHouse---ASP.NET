@@ -15,6 +15,7 @@
   <ItemGroup>
     <ProjectReference Include="..\WareHouse.AppContext\WareHouse.AppContext.csproj" />
     <ProjectReference Include="..\WareHouse.Repositories\WareHouse.Repositories.csproj" />
+    <ProjectReference Include="..\WareHouse.ViewModels\WareHouse.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

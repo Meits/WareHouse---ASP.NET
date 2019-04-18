@@ -22,6 +22,10 @@ namespace WareHouse.Entities
         [StringLength(64)]
         public string Password { get; set; }
 
+        [Column("salt")]
+        [StringLength(64)]
+        public string Salt { get; set; }
+
         [Column("email")]
         [StringLength(64)]
         public string Email { get; set; }

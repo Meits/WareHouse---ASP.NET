@@ -30,7 +30,8 @@
           "Microsoft.NETCore.App": "2.2.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.2.0",
           "WareHouse.AppContext": "1.0.0",
-          "WareHouse.Repositories": "1.0.0"
+          "WareHouse.Repositories": "1.0.0",
+          "WareHouse.ViewModels": "1.0.0"
         },
         "runtime": {
           "WareHouse.dll": {}
@@ -612,6 +613,7 @@
       },
       "WareHouse.AppContext/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.2.0",
           "Microsoft.EntityFrameworkCore": "2.2.4",
           "WareHouse.Entities": "1.0.0"
         },
@@ -646,6 +648,17 @@
         },
         "compile": {
           "WareHouse.Repositories.dll": {}
+        }
+      },
+      "WareHouse.ViewModels/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.4"
+        },
+        "runtime": {
+          "WareHouse.ViewModels.dll": {}
+        },
+        "compile": {
+          "WareHouse.ViewModels.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3841,6 +3854,11 @@
       "sha512": ""
     },
     "WareHouse.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WareHouse.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

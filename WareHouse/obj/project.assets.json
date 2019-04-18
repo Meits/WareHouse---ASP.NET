@@ -4738,6 +4738,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "2.2.0",
           "Microsoft.EntityFrameworkCore": "2.2.4",
           "WareHouse.Entities": "1.0.0"
         },
@@ -4776,6 +4777,19 @@
         },
         "runtime": {
           "bin/placeholder/WareHouse.Repositories.dll": {}
+        }
+      },
+      "WareHouse.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "2.2.4"
+        },
+        "compile": {
+          "bin/placeholder/WareHouse.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WareHouse.ViewModels.dll": {}
         }
       }
     }
@@ -13007,6 +13021,11 @@
       "type": "project",
       "path": "../WareHouse.Repositories/WareHouse.Repositories.csproj",
       "msbuildProject": "../WareHouse.Repositories/WareHouse.Repositories.csproj"
+    },
+    "WareHouse.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../WareHouse.ViewModels/WareHouse.ViewModels.csproj",
+      "msbuildProject": "../WareHouse.ViewModels/WareHouse.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13017,7 +13036,8 @@
       "Microsoft.NETCore.App >= 2.2.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.0",
       "WareHouse.AppContext >= 1.0.0",
-      "WareHouse.Repositories >= 1.0.0"
+      "WareHouse.Repositories >= 1.0.0",
+      "WareHouse.ViewModels >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -13055,6 +13075,9 @@
             },
             "F:\\step\\asp\\examen\\warehouse\\WareHouse\\WareHouse.Repositories\\WareHouse.Repositories.csproj": {
               "projectPath": "F:\\step\\asp\\examen\\warehouse\\WareHouse\\WareHouse.Repositories\\WareHouse.Repositories.csproj"
+            },
+            "F:\\step\\asp\\examen\\warehouse\\WareHouse\\WareHouse.ViewModels\\WareHouse.ViewModels.csproj": {
+              "projectPath": "F:\\step\\asp\\examen\\warehouse\\WareHouse\\WareHouse.ViewModels\\WareHouse.ViewModels.csproj"
             }
           }
         }

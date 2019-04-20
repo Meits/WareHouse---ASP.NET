@@ -5,11 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using WareHouse.Entities;
+using WareHouse.Filters;
 using WareHouse.Repositories;
 
 namespace WareHouse.Controllers
 {
-
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class StocksController : ControllerBase

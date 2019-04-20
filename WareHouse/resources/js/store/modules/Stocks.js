@@ -3,11 +3,18 @@ import Axios from "axios";
 const mutations = {
     getStocks(state, stocks) {
         state.stocks = stocks;
+    },
+    setCurrentStock(state, stock) {
+        state.currentStock = stock;
     }
 }
 
 const state = {
-    stocks: []
+    stocks: [],
+    currentStock : {
+        Id : "",
+        name : ""
+    }
 }
 
 
@@ -18,7 +25,6 @@ const actions = {
                 context.commit('getStocks', response.data);
             });
         }
-        
     }
 }
 

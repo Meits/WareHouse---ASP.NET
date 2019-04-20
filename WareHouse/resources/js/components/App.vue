@@ -1,5 +1,6 @@
 <template>
-    <div class="application--wrap">
+    <v-app>
+
         <navigation></navigation>
         <v-content>
             <div id="core-view">
@@ -9,7 +10,7 @@
             </div>
         </v-content>
 
-    </div>
+    </v-app>
 
 </template>
 

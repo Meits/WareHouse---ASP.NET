@@ -67,5 +67,14 @@ namespace WareHouse.Controllers
             return Ok(user);
         }
 
+        // GET api/values
+        [Authorize]
+        [HttpGet]
+        public ActionResult<IEnumerable<string>> refresh()
+        {
+
+            return Ok( "success" );
+        }
+
     }
 }
